@@ -1,0 +1,1024 @@
+{
+    "code": 3,
+    "data": {
+        "events": [
+            {
+                "id": "4m9applq5v8yr6b",
+                "homeScore": {
+                    "current": 0,
+                    "display": 0,
+                    "period1": 0,
+                    "period2": 0,
+                    "corner": 4,
+                    "yellow_card": 2,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "tournament": {
+                    "id": "ym2xwfiotyu669p",
+                    "priority": 9,
+                    "name": "La Liga",
+                    "slug": "la-liga",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "id": "3hc6ro1wp0p3bmq",
+                        "flag": "spain"
+                    },
+                    "group_num": 0
+                },
+                "homeTeam": {
+                    "id": "s4luxy1o0nbrihp",
+                    "name": "UD Las Palmas",
+                    "slug": "ud-las-palmas",
+                    "shortName": "Las Palmas",
+                    "logo":"https://w7.pngwing.com/pngs/980/858/png-transparent-ud-las-palmas-football-team-spanish-football-club-icon-thumbnail.png"
+                },
+                "awayScore": {
+                    "current": 2,
+                    "display": 2,
+                    "period1": 1,
+                    "period2": 1,
+                    "corner": 2,
+                    "yellow_card": 3,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "awayTeam": {
+                    "id": "s4luxy1o353rihp",
+                    "name": "Girona FC",
+                    "slug": "girona-fc",
+                    "shortName": "Girona",
+                    "logo":"https://banner2.cleanpng.com/20181203/ljp/kisspng-girona-fc-c-estadi-montilivi-la-liga-real-madrid-c-x-png-free-download-on-mbtskoudsalg-5c05923b841c29.8353017815438689875411.jpg"
+                },
+                "status": {
+                    "code": 100,
+                    "description": "ended",
+                    "type": "finished"
+                },
+                "winnerCode": 2,
+                "startTimestamp": 1714219200,
+                "stage_id": "mx7a61lemw6se70"
+            },
+            {
+                "id": "mx7a61l3h826wi4",
+                "homeScore": {
+                    "current": 2,
+                    "display": 2,
+                    "period1": 2,
+                    "period2": 0,
+                    "corner": 7,
+                    "yellow_card": 2,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "tournament": {
+                    "id": "ym2xwfiotyu669p",
+                    "priority": 9,
+                    "name": "La Liga",
+                    "slug": "la-liga",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "id": "3hc6ro1wp0p3bmq",
+                        "flag": "spain"
+                    },
+                    "group_num": 0
+                },
+                "homeTeam": {
+                    "id": "y3d7s6dold5rq93",
+                    "name": "Real Sociedad",
+                    "slug": "real-sociedad",
+                    "shortName": "Real Sociedad",
+                    "logo":"https://w7.pngwing.com/pngs/114/1005/png-transparent-real-sociedad-femenino-anoeta-stadium-2016-17-la-liga-real-sociedad-c-football-logo-sports-football-team.png"
+                },
+                "awayScore": {
+                    "current": 0,
+                    "display": 0,
+                    "period1": 0,
+                    "period2": 0,
+                    "corner": 2,
+                    "yellow_card": 1,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "awayTeam": {
+                    "id": "s4luxy1o0nbrihp",
+                    "name": "UD Las Palmas",
+                    "slug": "ud-las-palmas",
+                    "shortName": "Las Palmas",
+                    "logo":"https://w7.pngwing.com/pngs/980/858/png-transparent-ud-las-palmas-football-team-spanish-football-club-icon-thumbnail.png"
+                },
+                "status": {
+                    "code": 100,
+                    "description": "ended",
+                    "type": "finished"
+                },
+                "winnerCode": 1,
+                "startTimestamp": 1714824000,
+                "stage_id": "mx7a61lemw6se70"
+            },
+            {
+                "id": "54cvbmlw373hvp4",
+                "homeScore": {
+                    "current": 2,
+                    "display": 2,
+                    "period1": 1,
+                    "period2": 1,
+                    "corner": 4,
+                    "yellow_card": 2,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "tournament": {
+                    "id": "ym2xwfiotyu669p",
+                    "priority": 9,
+                    "name": "La Liga",
+                    "slug": "la-liga",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "id": "3hc6ro1wp0p3bmq",
+                        "flag": "spain"
+                    },
+                    "group_num": 0
+                },
+                "homeTeam": {
+                    "id": "s4luxy1o0nbrihp",
+                    "name": "UD Las Palmas",
+                    "slug": "ud-las-palmas",
+                    "shortName": "Las Palmas",
+                    "logo":"https://w7.pngwing.com/pngs/980/858/png-transparent-ud-las-palmas-football-team-spanish-football-club-icon-thumbnail.png"
+                },
+                "awayScore": {
+                    "current": 2,
+                    "display": 2,
+                    "period1": 1,
+                    "period2": 1,
+                    "corner": 8,
+                    "yellow_card": 1,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "awayTeam": {
+                    "id": "g38gsxooh9qrl7t",
+                    "name": "Real Betis",
+                    "slug": "real-betis",
+                    "shortName": "Real Betis",
+                    "logo":"data:image/png;base64,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"
+                },
+                "status": {
+                    "code": 100,
+                    "description": "ended",
+                    "type": "finished"
+                },
+                "winnerCode": 3,
+                "startTimestamp": 1715880600,
+                "stage_id": "mx7a61lemw6se70"
+            },
+            {
+                "id": "o6jamrls9g17w7q",
+                "homeScore": {
+                    "current": 0,
+                    "display": 0,
+                    "period1": 0,
+                    "period2": 0,
+                    "corner": 5,
+                    "yellow_card": 3,
+                    "red_card": 1,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "tournament": {
+                    "id": "ym2xwfiotyu669p",
+                    "priority": 9,
+                    "name": "La Liga",
+                    "slug": "la-liga",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "id": "3hc6ro1wp0p3bmq",
+                        "flag": "spain"
+                    },
+                    "group_num": 0
+                },
+                "homeTeam": {
+                    "id": "ym2xwfiohpss006",
+                    "name": "Cadiz",
+                    "slug": "cadiz",
+                    "shortName": "Cadiz CF",
+                    "logo":"https://w7.pngwing.com/pngs/458/417/png-transparent-cadiz-cf-segunda-division-spain-granada-cf-la-liga-football-text-sport-triangle.png"
+                },
+                "awayScore": {
+                    "current": 0,
+                    "display": 0,
+                    "period1": 0,
+                    "period2": 0,
+                    "corner": 3,
+                    "yellow_card": 1,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "awayTeam": {
+                    "id": "s4luxy1o0nbrihp",
+                    "name": "UD Las Palmas",
+                    "slug": "ud-las-palmas",
+                    "shortName": "Las Palmas",
+                    "logo":"https://w7.pngwing.com/pngs/980/858/png-transparent-ud-las-palmas-football-team-spanish-football-club-icon-thumbnail.png"
+                },
+                "status": {
+                    "code": 100,
+                    "description": "ended",
+                    "type": "finished"
+                },
+                "winnerCode": 3,
+                "startTimestamp": 1716138000,
+                "stage_id": "mx7a61lemw6se70"
+            },
+            {
+                "id": "a8qv3rl0446xr1c",
+                "homeScore": {
+                    "current": 1,
+                    "display": 1,
+                    "period1": 0,
+                    "period2": 1,
+                    "corner": 2,
+                    "yellow_card": 2,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "tournament": {
+                    "id": "ym2xwfiotyu669p",
+                    "priority": 9,
+                    "name": "La Liga",
+                    "slug": "la-liga",
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "id": "3hc6ro1wp0p3bmq",
+                        "flag": "spain"
+                    },
+                    "group_num": 0
+                },
+                "homeTeam": {
+                    "id": "s4luxy1o0nbrihp",
+                    "name": "UD Las Palmas",
+                    "slug": "ud-las-palmas",
+                    "shortName": "Las Palmas",
+                    "logo":"https://w7.pngwing.com/pngs/980/858/png-transparent-ud-las-palmas-football-team-spanish-football-club-icon-thumbnail.png"
+                },
+                "awayScore": {
+                    "current": 1,
+                    "display": 1,
+                    "period1": 0,
+                    "period2": 1,
+                    "corner": 6,
+                    "yellow_card": 1,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "awayTeam": {
+                    "id": "bm0nxito4lns3t6",
+                    "name": "Deportivo Alavés",
+                    "slug": "deportivo-alavs",
+                    "shortName": "Alavés",
+                    "logo":"https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-deportivo-alaves-soccer-club-logo-transparent-png-701751712232245kgbvaadk0c.png"
+                },
+                "status": {
+                    "code": 100,
+                    "description": "ended",
+                    "type": "finished"
+                },
+                "winnerCode": 3,
+                "startTimestamp": 1716732900,
+                "stage_id": "mx7a61lemw6se70"
+            },
+            {
+                "id": "o6jamrldt215w7q",
+                "homeScore": {
+                    "current": 3,
+                    "display": 3,
+                    "period1": 1,
+                    "period2": 2,
+                    "corner": 5,
+                    "yellow_card": 0,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "tournament": {
+                    "id": "jqcfxzpoopuzp9p",
+                    "priority": 171,
+                    "name": "International Club Friendly",
+                    "slug": "international-club-friendly",
+                    "category": {
+                        "name": "International",
+                        "slug": "international",
+                        "id": "qr3yxve1xwwfibh"
+                    },
+                    "group_num": 0
+                },
+                "homeTeam": {
+                    "id": "s5ofw4kol50n5ek",
+                    "name": "Manchester City",
+                    "slug": "manchester-city",
+                    "shortName": "Man City",
+                    "logo":"https://e7.pngegg.com/pngimages/287/555/png-clipart-manchester-city-f-c-manchester-city-w-f-c-premier-league-2011-fa-cup-final-premier-league-text-trademark.png"
+                },
+                "awayScore": {
+                    "current": 4,
+                    "display": 4,
+                    "period1": 3,
+                    "period2": 1,
+                    "corner": 4,
+                    "yellow_card": 2,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "awayTeam": {
+                    "id": "2wogs0kow3rs1xj",
+                    "name": "Celtic FC",
+                    "slug": "celtic-fc",
+                    "shortName": "Celtic F.C.",
+                    "logo":"https://e7.pngegg.com/pngimages/30/774/png-clipart-celtic-park-celtic-f-c-dundee-f-c-old-firm-rangers-f-c-others-leaf-logo-thumbnail.png"
+                },
+                "status": {
+                    "code": 100,
+                    "description": "ended",
+                    "type": "finished"
+                },
+                "winnerCode": 2,
+                "startTimestamp": 1721777400,
+                "stage_id": "go6v7il0vd9ntnv"
+            },
+            {
+                "id": "sybadnl2f7h5whq",
+                "homeScore": {
+                    "current": 2,
+                    "display": 2,
+                    "period1": 1,
+                    "period2": 1,
+                    "corner": 2,
+                    "yellow_card": 0,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "tournament": {
+                    "id": "jqcfxzpoopuzp9p",
+                    "priority": 171,
+                    "name": "International Club Friendly",
+                    "slug": "international-club-friendly",
+                    "category": {
+                        "name": "International",
+                        "slug": "international",
+                        "id": "qr3yxve1xwwfibh"
+                    },
+                    "group_num": 0
+                },
+                "homeTeam": {
+                    "id": "s5ofw4kol50n5ek",
+                    "name": "Manchester City",
+                    "slug": "manchester-city",
+                    "shortName": "Man City",
+                    "logo":"https://e7.pngegg.com/pngimages/287/555/png-clipart-manchester-city-f-c-manchester-city-w-f-c-premier-league-2011-fa-cup-final-premier-league-text-trademark.png"
+                },
+                "awayScore": {
+                    "current": 3,
+                    "display": 3,
+                    "period1": 2,
+                    "period2": 1,
+                    "corner": 0,
+                    "yellow_card": 1,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "awayTeam": {
+                    "id": "bm0nxito43hs3t6",
+                    "name": "AC Milan",
+                    "slug": "ac-milan",
+                    "shortName": "Milan",
+                    "logo":"https://w7.pngwing.com/pngs/234/244/png-transparent-ac-milan-thumbnail.png"
+                },
+                "status": {
+                    "code": 100,
+                    "description": "ended",
+                    "type": "finished"
+                },
+                "winnerCode": 2,
+                "startTimestamp": 1722117900,
+                "stage_id": "go6v7il0vd9ntnv"
+            },
+            {
+                "id": "54cvbml5xw3pvp4",
+                "homeScore": {
+                    "current": 2,
+                    "display": 2,
+                    "period1": 1,
+                    "period2": 1,
+                    "corner": 4,
+                    "yellow_card": 2,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 1
+                },
+                "tournament": {
+                    "id": "jqcfxzpoopuzp9p",
+                    "priority": 171,
+                    "name": "International Club Friendly",
+                    "slug": "international-club-friendly",
+                    "category": {
+                        "name": "International",
+                        "slug": "international",
+                        "id": "qr3yxve1xwwfibh"
+                    },
+                    "group_num": 0
+                },
+                "homeTeam": {
+                    "id": "s5ofw4kol50n5ek",
+                    "name": "Manchester City",
+                    "slug": "manchester-city",
+                    "shortName": "Man City",
+                    "logo":"https://e7.pngegg.com/pngimages/287/555/png-clipart-manchester-city-f-c-manchester-city-w-f-c-premier-league-2011-fa-cup-final-premier-league-text-trademark.png"
+                },
+                "awayScore": {
+                    "current": 2,
+                    "display": 2,
+                    "period1": 2,
+                    "period2": 0,
+                    "corner": 3,
+                    "yellow_card": 1,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 4
+                },
+                "awayTeam": {
+                    "id": "h5bhxp8o920r35v",
+                    "name": "FC Barcelona",
+                    "slug": "fc-barcelona",
+                    "shortName": "Barcelona",
+                    "logo":"https://w7.pngwing.com/pngs/551/575/png-transparent-fc-barcelona-museum-fc-barcelona-handbol-fc-barcelona-femeni-uefa-champions-league-fc-barcelona-logo-text-lionel-messi-area.png"
+                },
+                "status": {
+                    "code": 120,
+                    "description": "AP",
+                    "type": "finished"
+                },
+                "winnerCode": 2,
+                "startTimestamp": 1722385200,
+                "stage_id": "go6v7il0vd9ntnv"
+            },
+            {
+                "id": "7xdat6lew0oyv72",
+                "homeScore": {
+                    "current": 2,
+                    "display": 2,
+                    "period1": 0,
+                    "period2": 2,
+                    "corner": 3,
+                    "yellow_card": 3,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "tournament": {
+                    "id": "jqcfxzpoopuzp9p",
+                    "priority": 171,
+                    "name": "International Club Friendly",
+                    "slug": "international-club-friendly",
+                    "category": {
+                        "name": "International",
+                        "slug": "international",
+                        "id": "qr3yxve1xwwfibh"
+                    },
+                    "group_num": 0
+                },
+                "homeTeam": {
+                    "id": "m2q3xlroxdan2ed",
+                    "name": "Chelsea",
+                    "slug": "chelsea",
+                    "shortName": "Chelsea",
+                    "logo":"https://w7.pngwing.com/pngs/47/877/png-transparent-chelsea-football-club-logo-chelsea-f-c-premier-league-world-cup-chelsea-fc-premier-league-blue-emblem-sport.png"
+                },
+                "awayScore": {
+                    "current": 4,
+                    "display": 4,
+                    "period1": 2,
+                    "period2": 2,
+                    "corner": 3,
+                    "yellow_card": 1,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "awayTeam": {
+                    "id": "s5ofw4kol50n5ek",
+                    "name": "Manchester City",
+                    "slug": "manchester-city",
+                    "shortName": "Man City",
+                    "logo":"https://e7.pngegg.com/pngimages/287/555/png-clipart-manchester-city-f-c-manchester-city-w-f-c-premier-league-2011-fa-cup-final-premier-league-text-trademark.png"
+                },
+                "status": {
+                    "code": 100,
+                    "description": "ended",
+                    "type": "finished"
+                },
+                "winnerCode": 2,
+                "startTimestamp": 1722720600,
+                "stage_id": "cq0afilwxz4r31c"
+            },
+            {
+                "id": "54cvbml56dh5vp4",
+                "homeScore": {
+                    "current": 1,
+                    "display": 1,
+                    "period1": 1,
+                    "period2": 0,
+                    "corner": 5,
+                    "yellow_card": 2,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "tournament": {
+                    "id": "7au4xbkox5t97f7",
+                    "priority": 11,
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "id": "70asdo2npgu7tmm",
+                        "flag": "italy"
+                    },
+                    "group_num": 0
+                },
+                "homeTeam": {
+                    "id": "no03wnpo4xzrah5",
+                    "name": "Cagliari",
+                    "slug": "cagliari",
+                    "shortName": "Cagliari",
+                    "logo":"https://e7.pngegg.com/pngimages/269/619/png-clipart-cagliari-calcio-serie-a-stadio-sant-elia-serie-b-calcio-cagliari-point-biglietteria-e-store-football.png"
+                },
+                "awayScore": {
+                    "current": 1,
+                    "display": 1,
+                    "period1": 0,
+                    "period2": 1,
+                    "corner": 6,
+                    "yellow_card": 2,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "awayTeam": {
+                    "id": "c9dxsq8ovz7r5s2",
+                    "name": "Como",
+                    "slug": "como",
+                    "shortName": "Como",
+                    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/870px-Logo_Como_1907_2019.png"
+                },
+                "status": {
+                    "code": 100,
+                    "description": "ended",
+                    "type": "finished"
+                },
+                "winnerCode": 3,
+                "startTimestamp": 1724689800,
+                "stage_id": "hesv5ylchp7sdxd"
+            },
+            {
+                "id": "9zuz9pl01z53rm3",
+                "homeScore": {
+                    "current": 1,
+                    "display": 1,
+                    "period1": 1,
+                    "period2": 0,
+                    "corner": 4,
+                    "yellow_card": 3,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "tournament": {
+                    "id": "7au4xbkox5t97f7",
+                    "priority": 11,
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "id": "70asdo2npgu7tmm",
+                        "flag": "italy"
+                    },
+                    "group_num": 0
+                },
+                "homeTeam": {
+                    "id": "jqcfxzpoekjsdt6",
+                    "name": "Udinese",
+                    "slug": "udinese",
+                    "shortName": "Udinese",
+                    "logo":"https://e7.pngegg.com/pngimages/204/893/png-clipart-udinese-calcio-serie-a-fc-wacker-innsbruck-football-sport-football-emblem-logo.png"
+                },
+                "awayScore": {
+                    "current": 0,
+                    "display": 0,
+                    "period1": 0,
+                    "period2": 0,
+                    "corner": 6,
+                    "yellow_card": 0,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "awayTeam": {
+                    "id": "c9dxsq8ovz7r5s2",
+                    "name": "Como",
+                    "slug": "como",
+                    "shortName": "Como",
+                    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/870px-Logo_Como_1907_2019.png"
+                },
+                "status": {
+                    "code": 100,
+                    "description": "ended",
+                    "type": "finished"
+                },
+                "winnerCode": 1,
+                "startTimestamp": 1725216300,
+                "stage_id": "hesv5ylchp7sdxd"
+            },
+            {
+                "id": "b1ta1lluve0fvff",
+                "homeScore": {
+                    "current": 2,
+                    "display": 2,
+                    "period1": 1,
+                    "period2": 1,
+                    "corner": 4,
+                    "yellow_card": 2,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "tournament": {
+                    "id": "7au4xbkox5t97f7",
+                    "priority": 11,
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "id": "70asdo2npgu7tmm",
+                        "flag": "italy"
+                    },
+                    "group_num": 0
+                },
+                "homeTeam": {
+                    "id": "c9dxsq8ovz7r5s2",
+                    "name": "Como",
+                    "slug": "como",
+                    "shortName": "Como",
+                    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/870px-Logo_Como_1907_2019.png"
+                },
+                "awayScore": {
+                    "current": 2,
+                    "display": 2,
+                    "period1": 0,
+                    "period2": 2,
+                    "corner": 3,
+                    "yellow_card": 1,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "awayTeam": {
+                    "id": "y3d7s6dolw9rq93",
+                    "name": "Bologna",
+                    "slug": "bologna",
+                    "shortName": "Bologna",
+                    "logo":"https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-bologna-fc-1909-logo-transparent-background-701751712236898oeotztkx8o.png"
+                },
+                "status": {
+                    "code": 100,
+                    "description": "ended",
+                    "type": "finished"
+                },
+                "winnerCode": 3,
+                "startTimestamp": 1726318800,
+                "stage_id": "hesv5ylchp7sdxd"
+            },
+            {
+                "id": "cq0afil23z17v78",
+                "homeScore": {
+                    "current": 2,
+                    "display": 2,
+                    "period1": 1,
+                    "period2": 1,
+                    "corner": 6,
+                    "yellow_card": 1,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "tournament": {
+                    "id": "7au4xbkox5t97f7",
+                    "priority": 11,
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "id": "70asdo2npgu7tmm",
+                        "flag": "italy"
+                    },
+                    "group_num": 0
+                },
+                "homeTeam": {
+                    "id": "jy2us9togw9n7fj",
+                    "name": "Atalanta",
+                    "slug": "atalanta",
+                    "shortName": "Atalanta",
+                    "logo":"https://e7.pngegg.com/pngimages/866/78/png-clipart-atalanta-bc-logo-football-italian-football-clubs-logos.png"
+                },
+                "awayScore": {
+                    "current": 3,
+                    "display": 3,
+                    "period1": 0,
+                    "period2": 3,
+                    "corner": 2,
+                    "yellow_card": 3,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "awayTeam": {
+                    "id": "c9dxsq8ovz7r5s2",
+                    "name": "Como",
+                    "slug": "como",
+                    "shortName": "Como",
+                    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/870px-Logo_Como_1907_2019.png"
+                },
+                "status": {
+                    "code": 100,
+                    "description": "ended",
+                    "type": "finished"
+                },
+                "winnerCode": 2,
+                "startTimestamp": 1727203500,
+                "stage_id": "hesv5ylchp7sdxd"
+            },
+            {
+                "id": "o8tzjglvw408w47",
+                "homeScore": {
+                    "current": 3,
+                    "display": 3,
+                    "period1": 1,
+                    "period2": 2,
+                    "corner": 9,
+                    "yellow_card": 2,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "tournament": {
+                    "id": "7au4xbkox5t97f7",
+                    "priority": 11,
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "id": "70asdo2npgu7tmm",
+                        "flag": "italy"
+                    },
+                    "group_num": 0
+                },
+                "homeTeam": {
+                    "id": "c9dxsq8ovz7r5s2",
+                    "name": "Como",
+                    "slug": "como",
+                    "shortName": "Como",
+                    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/870px-Logo_Como_1907_2019.png"
+                },
+                "awayScore": {
+                    "current": 2,
+                    "display": 2,
+                    "period1": 0,
+                    "period2": 2,
+                    "corner": 1,
+                    "yellow_card": 4,
+                    "red_card": 1,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "awayTeam": {
+                    "id": "7au4xbkosggr31c",
+                    "name": "Hellas Verona",
+                    "slug": "hellas-verona",
+                    "shortName": "Verona",
+                    "logo":"https://toppng.com/uploads/preview/hellas-verona-football-logo-png-11536012620npvszhqxrx.png"
+                },
+                "status": {
+                    "code": 100,
+                    "description": "ended",
+                    "type": "finished"
+                },
+                "winnerCode": 1,
+                "startTimestamp": 1727614800,
+                "stage_id": "hesv5ylchp7sdxd"
+            },
+            {
+                "id": "7kbz8illmxror9b",
+                "homeScore": {
+                    "current": 3,
+                    "display": 3,
+                    "period1": 1,
+                    "period2": 2,
+                    "corner": 4,
+                    "yellow_card": 1,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "tournament": {
+                    "id": "7au4xbkox5t97f7",
+                    "priority": 11,
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "id": "70asdo2npgu7tmm",
+                        "flag": "italy"
+                    },
+                    "group_num": 0
+                },
+                "homeTeam": {
+                    "id": "7au4xbkoddrr31c",
+                    "name": "Napoli",
+                    "slug": "napoli",
+                    "shortName": "Napoli",
+                    "logo":"https://w7.pngwing.com/pngs/645/133/png-transparent-s-s-c-napoli-inter-milan-juventus-f-c-2017-18-serie-a-naples-leyton-orient-fc-blue-text-trademark.png"
+                },
+                "awayScore": {
+                    "current": 1,
+                    "display": 1,
+                    "period1": 1,
+                    "period2": 0,
+                    "corner": 1,
+                    "yellow_card": 1,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "awayTeam": {
+                    "id": "c9dxsq8ovz7r5s2",
+                    "name": "Como",
+                    "slug": "como",
+                    "shortName": "Como",
+                    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/870px-Logo_Como_1907_2019.png"
+                },
+                "status": {
+                    "code": 100,
+                    "description": "ended",
+                    "type": "finished"
+                },
+                "winnerCode": 1,
+                "startTimestamp": 1728059400,
+                "stage_id": "hesv5ylchp7sdxd"
+            },
+            {
+                "id": "go6v7il903yzrxk",
+                "homeScore": {
+                    "current": 1,
+                    "display": 1,
+                    "period1": 1,
+                    "period2": 0,
+                    "corner": 7,
+                    "yellow_card": 1,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "tournament": {
+                    "id": "7au4xbkox5t97f7",
+                    "priority": 11,
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "id": "70asdo2npgu7tmm",
+                        "flag": "italy"
+                    },
+                    "group_num": 0
+                },
+                "homeTeam": {
+                    "id": "c9dxsq8ovz7r5s2",
+                    "name": "Como",
+                    "slug": "como",
+                    "shortName": "Como",
+                    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/870px-Logo_Como_1907_2019.png"
+                },
+                "awayScore": {
+                    "current": 1,
+                    "display": 1,
+                    "period1": 1,
+                    "period2": 0,
+                    "corner": 4,
+                    "yellow_card": 2,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "awayTeam": {
+                    "id": "jz5xx7nosvcrbib",
+                    "name": "Parma",
+                    "slug": "parma",
+                    "shortName": "Parma",
+                    "logo":"https://w7.pngwing.com/pngs/317/760/png-transparent-parma-ac-logo-football-italian-football-clubs-logos.png"
+                },
+                "status": {
+                    "code": 100,
+                    "description": "ended",
+                    "type": "finished"
+                },
+                "winnerCode": 3,
+                "startTimestamp": 1729342800,
+                "stage_id": "hesv5ylchp7sdxd"
+            },
+            {
+                "id": "54cvbml56k61vp4",
+                "homeScore": {
+                    "current": 1,
+                    "display": 1,
+                    "period1": 0,
+                    "period2": 1,
+                    "corner": 1,
+                    "yellow_card": 3,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "tournament": {
+                    "id": "7au4xbkox5t97f7",
+                    "priority": 11,
+                    "name": "Serie A",
+                    "slug": "serie-a",
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "id": "70asdo2npgu7tmm",
+                        "flag": "italy"
+                    },
+                    "group_num": 0
+                },
+                "homeTeam": {
+                    "id": "c9dxsq8oe6or5s2",
+                    "name": "Torino",
+                    "slug": "torino",
+                    "shortName": "Torino",
+                    "logo":"https://upload.wikimedia.org/wikipedia/it/thumb/0/04/Torino_FC_logo.svg/1200px-Torino_FC_logo.svg.png"
+                },
+                "awayScore": {
+                    "current": 0,
+                    "display": 0,
+                    "period1": 0,
+                    "period2": 0,
+                    "corner": 3,
+                    "yellow_card": 3,
+                    "red_card": 0,
+                    "overTime_score": 0,
+                    "penalty_score": 0
+                },
+                "awayTeam": {
+                    "id": "c9dxsq8ovz7r5s2",
+                    "name": "Como",
+                    "slug": "como",
+                    "shortName": "Como",
+                    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/870px-Logo_Como_1907_2019.png"
+                },
+                "status": {
+                    "code": 100,
+                    "description": "ended",
+                    "type": "finished"
+                },
+                "winnerCode": 1,
+                "startTimestamp": 1729881900,
+                "stage_id": "hesv5ylchp7sdxd"
+            }
+        ]
+    },
+    "message": ""
+}
