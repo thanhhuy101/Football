@@ -3,10 +3,8 @@ import PropTypes from "prop-types";
 import { BarChart, Bar, XAxis, YAxis, Tooltip, CartesianGrid } from "recharts";
 
 const GameResults = ({ players, techniqueStats }) => {
-  // Sort players by score
   const sortedPlayers = [...players].sort((a, b) => b.score - a.score);
 
-  // Convert technique stats for chart
   const chartData = Object.entries(techniqueStats)
     .map(([name, count]) => ({ name, count }))
     .sort((a, b) => b.count - a.count);
@@ -17,14 +15,14 @@ const GameResults = ({ players, techniqueStats }) => {
 
       {/* Player Rankings */}
       <div className="mb-8">
-        <h3 className="font-semibold mb-2">Player Rankings</h3>
-        <div className="space-y-2">
+        <h3 className="font-semibold mb-2">Players Ranking</h3>
+        <div className="grid grid-cols-2 gap-4">
           {sortedPlayers.map((player, index) => (
             <div
               key={player.number}
               className={`p-2 ${index < 3 ? "font-bold bg-blue-100" : ""}`}
             >
-              {index + 1}. {player.name} (#{player.number}) - Score:{" "}
+              TOP {index + 1}: {player.name} (#{player.number}) - Score:{" "}
               {player.score}
             </div>
           ))}
