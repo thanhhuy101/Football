@@ -1,4 +1,3 @@
-// App.js
 import { useState } from "react";
 import PlayerInput from "./components/PlayerInput";
 import GameResult from "./components/GameResult";
